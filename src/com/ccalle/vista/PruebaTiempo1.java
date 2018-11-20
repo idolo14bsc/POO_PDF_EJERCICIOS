@@ -14,6 +14,7 @@ import javax.swing.JOptionPane;
  */
 public class PruebaTiempo1 {
     public static void main(String[] args) {
+        JOptionPane.showMessageDialog(null, "Ejercicio 8.2");
         Tiempo1 tiempo = new Tiempo1();
         String salida = "La hora universal inicial es:" +
                 tiempo.aStringUniversal() + "\nLa hora estandar inicial es" +
