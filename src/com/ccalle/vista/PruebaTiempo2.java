@@ -14,6 +14,10 @@ import com.ccalle.modelo.Tiempo1;
 public class PruebaTiempo2 {
     public static void main(String[] args) {
         Tiempo1 hora = new Tiempo1();
+        
+        //tiempo.hora=7; 
+        //tiempo.minuto=15;
+        //tiempo.segundo=30;
     }
 
     
