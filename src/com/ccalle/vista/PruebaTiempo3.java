@@ -29,28 +29,28 @@ public class PruebaTiempo3 {
             "\n     " + t1.aStringUniversal()+
             "\n     " + t1.aStringEstandar();
     
-    salida = "Se construyo con:" + 
+    salida += "Se construyo con:" + 
             "\nt2: Se especifico hora; minuto y segundo predeterminados" +
             "\n     " + t2.aStringUniversal()+
             "\n     " + t2.aStringEstandar();
     
-    salida = "Se construyo con:" + 
-            "\nt1: Se especifico hora y minuto; segundo predeterminados" +
+    salida += "Se construyo con:" + 
+            "\nt3: Se especifico hora y minuto; segundo predeterminados" +
             "\n     " + t3.aStringUniversal()+
             "\n     " + t3.aStringEstandar();
     
-    salida = "Se construyo con:" + 
-            "\nt1: Se especifico horay minuto y segundo " +
+    salida += "Se construyo con:" + 
+            "\nt4: Se especifico horay minuto y segundo " +
             "\n     " + t4.aStringUniversal()+
             "\n     " + t4.aStringEstandar(); 
     
-    salida = "Se construyo con:" + 
-            "\nt1: Se especifico todos los valores invalidos" +
+    salida += "Se construyo con:" + 
+            "\nt5: Se especifico todos los valores invalidos" +
             "\n     " + t5.aStringUniversal()+
             "\n     " + t5.aStringEstandar();    
     
-    salida = "Se construyo con:" + 
-            "\nt1: Se especifico objeto t4 de la clase Tiempo2" +
+    salida += "Se construyo con:" + 
+            "\nt6: Se especifico objeto t4 de la clase Tiempo2" +
             "\n     " + t6.aStringUniversal()+
             "\n     " + t6.aStringEstandar();    
     
